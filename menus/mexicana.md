@@ -15,3 +15,8 @@ La cocina mexicana se caracteriza por sus sabores intensos, colores vivos y uso 
 - Agua de horchata.
 - Cerveza mexicana.
 - Tequila o mezcal como digestivo.
+
+## Consejos
+
+- Acompaña con guacamole fresco.
+- Usa tortillas de maíz recién hechas para mejor sabor.
