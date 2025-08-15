@@ -1,0 +1,22 @@
+# Menú Cocina China
+
+## Descripción
+
+La cocina china ofrece una gran variedad de sabores y técnicas, desde el salteado rápido hasta las cocciones al vapor.
+
+## Platos Principales
+
+- **Pollo Kung Pao**: Pollo salteado con cacahuates, chiles y verduras.
+- **Arroz Frito con Verduras**: Arroz salteado con huevo y vegetales.
+- **Dumplings al Vapor**: Empanadillas rellenas cocidas al vapor.
+
+## Bebidas Recomendadas
+
+- Té de jazmín o oolong.
+- Cerveza china.
+- Baijiu como digestivo.
+
+## Consejos
+
+- Cocina a fuego alto para conservar la textura.
+- Usa salsa de soja y aceite de sésamo con moderación.
