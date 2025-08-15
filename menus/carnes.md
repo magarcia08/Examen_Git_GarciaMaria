@@ -9,3 +9,9 @@ Este tipo de cocina resalta cortes de carne bien preparados, marinados o asados,
 - **Entrecot a la Parrilla**: Carne de res con sal marina.
 - **Costillas BBQ**: Cocidas lentamente con salsa barbacoa.
 - **Cordero al Horno**: Marinada en hierbas y ajo.
+
+## Bebidas Recomendadas
+
+- Vino tinto robusto.
+- Cerveza artesanal.
+- Whisky como digestivo.
