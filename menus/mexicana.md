@@ -9,3 +9,9 @@ La cocina mexicana se caracteriza por sus sabores intensos, colores vivos y uso 
 - **Tacos al Pastor**: Tortillas con cerdo marinado, piña y cebolla.
 - **Enchiladas Verdes**: Tortillas rellenas bañadas en salsa de tomatillo.
 - **Chiles en Nogada**: Pimientos rellenos con carne, cubiertos con salsa de nuez.
+
+## Bebidas Recomendadas
+
+- Agua de horchata.
+- Cerveza mexicana.
+- Tequila o mezcal como digestivo.
