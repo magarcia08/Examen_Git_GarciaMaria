@@ -9,3 +9,9 @@ La cocina francesa es conocida por su refinamiento, técnicas culinarias clásic
 - **Coq au Vin**: Pollo cocido en vino tinto con champiñones y panceta.
 - **Ratatouille**: Guiso de vegetales provenzal.
 - **Quiche Lorraine**: Tarta salada con huevo, crema y panceta.
+
+## Bebidas Recomendadas
+
+- Vino blanco Chardonnay.
+- Agua mineral.
+- Champagne como digestivo.
