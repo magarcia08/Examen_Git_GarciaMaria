@@ -9,3 +9,9 @@ La cocina vegetariana excluye carnes y pescados, enfocándose en vegetales, legu
 - **Lasaña de Verduras**: Capas de pasta con berenjena, calabacín y queso.
 - **Falafel con Tabulé**: Croquetas de garbanzo acompañadas de ensalada.
 - **Curry de Garbanzos**: Guiso especiado con leche de coco.
+
+## Bebidas Recomendadas
+
+- Jugo natural.
+- Té de hierbas.
+- Agua saborizada con frutas.
