@@ -2,21 +2,21 @@
 
 ## Descripción
 
-La cocina mexicana se caracteriza por sus sabores intensos, colores vivos y uso generoso de chiles, maíz y especias.
+La cocina japonesa resalta la pureza y presentación de los ingredientes, con énfasis en frescura, precisión y armonía.
 
 ## Platos Principales
 
-- **Tacos al Pastor**: Tortillas con cerdo marinado, piña y cebolla.
-- **Enchiladas Verdes**: Tortillas rellenas bañadas en salsa de tomatillo.
-- **Chiles en Nogada**: Pimientos rellenos con carne, cubiertos con salsa de nuez.
+- **Sushi Variado**: Arroz avinagrado con pescado fresco y vegetales.
+- **Ramen Tonkotsu**: Sopa de fideos con caldo de cerdo.
+- **Yakitori**: Brochetas de pollo a la parrilla con salsa tare.
 
 ## Bebidas Recomendadas
 
-- Agua de horchata.
-- Cerveza mexicana.
-- Tequila o mezcal como digestivo.
+- Té verde japonés.
+- Sake frío o caliente.
+- Cerveza japonesa.
 
 ## Consejos
 
-- Acompaña con guacamole fresco.
-- Usa tortillas de maíz recién hechas para mejor sabor.
+- Usa pescado fresco de alta calidad.
+- Cuida la presentación y el equilibrio de sabores.
