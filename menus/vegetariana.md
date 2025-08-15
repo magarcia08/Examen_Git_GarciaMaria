@@ -15,3 +15,8 @@ La cocina vegetariana excluye carnes y pescados, enfocándose en vegetales, legu
 - Jugo natural.
 - Té de hierbas.
 - Agua saborizada con frutas.
+
+## Consejos
+
+- Combina legumbres y cereales para proteína completa.
+- Usa especias para realzar sabores.
