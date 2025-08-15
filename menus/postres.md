@@ -9,3 +9,9 @@ Los postres son el cierre ideal para cualquier comida, ofreciendo sabores dulces
 - **Tiramisú**: Postre italiano de café, cacao y queso mascarpone.
 - **Pastel de Chocolate**: Suave y húmedo, a menudo con ganache.
 - **Crème Brûlée**: Crema pastelera con costra de azúcar caramelizado.
+
+## Bebidas Recomendadas
+
+- Café espresso.
+- Vino dulce o licor (como Amaretto).
+- Leche o chocolate caliente.
