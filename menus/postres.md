@@ -15,3 +15,8 @@ Los postres son el cierre ideal para cualquier comida, ofreciendo sabores dulces
 - Café espresso.
 - Vino dulce o licor (como Amaretto).
 - Leche o chocolate caliente.
+
+## Consejos
+
+- Enfría bien los postres antes de servir.
+- Cuida el equilibrio entre dulzura y textura.
