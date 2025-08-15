@@ -15,3 +15,8 @@ La cocina china ofrece una gran variedad de sabores y técnicas, desde el saltea
 - Té de jazmín o oolong.
 - Cerveza china.
 - Baijiu como digestivo.
+
+## Consejos
+
+- Cocina a fuego alto para conservar la textura.
+- Usa salsa de soja y aceite de sésamo con moderación.
