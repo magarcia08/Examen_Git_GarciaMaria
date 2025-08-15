@@ -15,3 +15,8 @@ La cocina francesa es conocida por su refinamiento, técnicas culinarias clásic
 - Vino blanco Chardonnay.
 - Agua mineral.
 - Champagne como digestivo.
+
+## Consejos
+
+- Usa mantequilla de calidad y cocina a fuego lento.
+- La presentación es tan importante como el sabor.
