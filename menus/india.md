@@ -16,3 +16,7 @@ La cocina india combina especias aromáticas y técnicas tradicionales para crea
 - Té chai especiado.
 - Agua de coco.
 
+## Consejos
+
+- Tuesta las especias antes de usarlas para liberar su aroma.
+- Acompaña con naan o arroz basmati.
