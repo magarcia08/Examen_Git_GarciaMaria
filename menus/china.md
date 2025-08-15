@@ -10,3 +10,8 @@ La cocina china ofrece una gran variedad de sabores y técnicas, desde el saltea
 - **Arroz Frito con Verduras**: Arroz salteado con huevo y vegetales.
 - **Dumplings al Vapor**: Empanadillas rellenas cocidas al vapor.
 
+## Bebidas Recomendadas
+
+- Té de jazmín o oolong.
+- Cerveza china.
+- Baijiu como digestivo.
