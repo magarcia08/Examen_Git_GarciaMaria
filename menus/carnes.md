@@ -15,3 +15,8 @@ Este tipo de cocina resalta cortes de carne bien preparados, marinados o asados,
 - Vino tinto robusto.
 - Cerveza artesanal.
 - Whisky como digestivo.
+
+## Consejos
+
+- Deja reposar la carne tras la cocción para conservar jugos.
+- Usa termómetro para cocción precisa.
