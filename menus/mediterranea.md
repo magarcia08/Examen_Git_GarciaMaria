@@ -15,3 +15,8 @@ La cocina mediterránea se basa en ingredientes saludables como aceite de oliva,
 - Vino blanco seco.
 - Agua con limón.
 - Infusiones de hierbas.
+
+## Consejos
+
+- Prioriza ingredientes locales y de temporada.
+- Ideal para una alimentación balanceada y ligera.
